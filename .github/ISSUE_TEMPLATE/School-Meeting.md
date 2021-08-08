@@ -13,18 +13,24 @@ assignees: ''
 
 
 ### Moderator
-
+- [ ] Victor Corcini @victorcorcino 
 
 ### Attendees
 Checked Names confirmed as Attendees.
 
-- [ ] Victor Corcini
-- [ ] Seomon 
+- [ ] Seomon @Seomon4u 
+- [ ] Lucio @coire1 
+- [ ] Dominik 
+- [ ] Kerstin
+- [ ] George @georgelovegrove 
+- [ ] Raz
+- [ ] Tevo 
+- [ ] Felix 
 
 ### Documentation
 
-- [x] @stephen-rowan
+- [ ] @stephen-rowan
 
 ## Agenda Items
 
-List of Open Agenda Items -
+- [ ] 
