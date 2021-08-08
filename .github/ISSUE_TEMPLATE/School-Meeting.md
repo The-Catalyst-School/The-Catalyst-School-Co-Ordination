@@ -1,11 +1,3 @@
----
-name: School-Meeting
-about: Create a School-Meeting Issue record. Assigned to 
-title: Core-Swarm-Meeting - [Date]
-labels: Weekly Tasks
-assignees: ''
-
----
 
 ## Core Swarm Meeting - Date, Time
 
