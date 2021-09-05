@@ -1,3 +1,12 @@
+---
+name: Catalyst-School-meetings
+about: Creating a Catalyst-School meeting record
+title: Catalyst-School-Meeting - [Date]
+labels: Meetings
+assignees: ''
+
+---
+
 
 ## Core Swarm Meeting - Date, Time
 
@@ -7,22 +16,31 @@
 ### Moderator
 - [ ] Victor Corcini @victorcorcino 
 
+
 ### Attendees
 Checked Names confirmed as Attendees.
 
 - [ ] Seomon @Seomon4u 
 - [ ] Lucio @coire1 
-- [ ] Dominik 
-- [ ] Kerstin
+- [ ] Dominik @DominikTilman
+- [ ] Kerstin 
 - [ ] George @georgelovegrove 
-- [ ] Raz
-- [ ] Tevo 
-- [ ] Felix 
+- [ ] Raz @raz33
+- [ ] Tevo @whitevo
+- [ ] Felix @FelixfromSwarm
+- [ ] Mercy
+
 
 ### Documentation
 
 - [ ] @stephen-rowan
 
+
 ## Agenda Items
 
 - [ ] 
+
+
+## Action
+
+- [ ]
