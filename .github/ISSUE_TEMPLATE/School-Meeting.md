@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 
-## Core Swarm Meeting - Date, Time
+## Catalyst School Meeting - Date, Time
 
 - Last Meeting - link to last meeting Issue
 
