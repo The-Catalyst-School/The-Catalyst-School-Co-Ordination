@@ -33,7 +33,7 @@ Checked Names confirmed as Attendees.
 
 ### Documentation
 
-- [ ] @stephen-rowan
+- [ ] stephen-rowan
 
 
 ## Agenda Items
